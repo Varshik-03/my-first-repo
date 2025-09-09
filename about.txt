@@ -1,0 +1,3 @@
+my name is varshik 
+I am currently pursuing in BSc Artificial Intelligence
+I have learned about adding and editing the files and also to view version history in GitHub
